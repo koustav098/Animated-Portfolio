@@ -1,1 +1,1 @@
-# Animated-Portfolio
+# Animated-Project
